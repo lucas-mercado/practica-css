@@ -1,0 +1,54 @@
+*{
+    background-color: dimgrey;
+}
+
+h1 {
+    color: turquoise;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline crimson;
+    transform: rotate(0.015turn);
+}
+
+.caja {
+    padding: 10px;
+    color: white;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    margin: 5px auto;
+    font-size: 10px;
+    float: left;
+}
+
+.rojo {
+ background-color: crimson;
+}
+
+.rosa {
+    background-color: hotpink;
+}
+
+.rgb {
+    background-color: rgb(131,36,236);
+}
+
+.rgba {
+    background-color: rgba(191, 184, 197,.5);
+}
+
+.hexadecimal {
+    background-color: #0091ad;
+}
+
+.hexadecimal-transparencia {
+    background-color: #0091ad88;
+}
+
+.hsl {
+    background-color: hsl(195, 100%, 50%);
+}
+
+.hsl-transparencia {
+    background-color: hsla(190, 100%, 34%, 0.533);
+}
